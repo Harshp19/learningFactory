@@ -1,0 +1,4 @@
+# [Name,X_pos,Y_pos,Orientation]
+[Start,15.620,7.049,179.075]
+[Arm_Station,12.909,6.905,177.416]
+[Human_Station,6.572,7.690,-92.299]
